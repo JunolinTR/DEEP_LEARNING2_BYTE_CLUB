@@ -1,4 +1,6 @@
-                                       **DEEP LEARNING 2**
+**Deep Learning 2**
+
+blog generation project
 
 In this project, I have generated blog content using given summaries by implementing advanced NLP techniques and deep learning models. The idea was to make a model that could convert one small summary into a detailed blog article, quite like how a writer would do: expand a simple outline into full-fledged content. Though essentially this work is an extension of an earlier project, it represents a completely independent research effort.
 
